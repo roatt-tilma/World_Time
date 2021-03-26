@@ -1,4 +1,0 @@
-#Sat Feb 27 20:23:07 NPT 2021
-base.0=D\:\\Practice\\Dart-Flutter\\world_time\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
